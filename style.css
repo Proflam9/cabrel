@@ -4,10 +4,17 @@ p{
 }
 .toto{
     background-color: blueviolet;
-    color: aquamarine;
+    color: blue;
+    text-align: center;
 
 }
 .bibi{
      background-color: black;
      color: aqua;
+}
+#banane{
+    color:blueviolet;
+}
+body{
+    background-color: aqua;
 }
